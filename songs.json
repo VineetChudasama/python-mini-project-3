@@ -1,0 +1,22 @@
+{
+    "happy": [
+        "Pharrell Williams - Happy",
+        "Katy Perry - Firework",
+        "Justin Timberlake - Can't Stop the Feeling"
+    ],
+    "sad": [
+        "Adele - Someone Like You",
+        "Lewis Capaldi - Someone You Loved",
+        "Sam Smith - Stay With Me"
+    ],
+    "energetic": [
+        "Imagine Dragons - Thunder",
+        "Survivor - Eye of the Tiger",
+        "Eminem - Lose Yourself"
+    ],
+    "chill": [
+        "Lo-Fi Beats - Chillhop Essentials",
+        "Coldplay - Sparks",
+        "Norah Jones - Come Away With Me"
+    ]
+}
